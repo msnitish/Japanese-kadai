@@ -1,3 +1,3 @@
 # Japanese-kadai
 Japanese Writing and Reading Practise
-- Has the list of Japanese assignments
+* List of Japanese assignments sent weekly.
